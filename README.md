@@ -1,2 +1,3 @@
  # Car Animation
-responsive <!-- No Div --> car
+Responsive Car, only CSS
+
