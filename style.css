@@ -523,6 +523,116 @@ body::after{
     /* ===mirror */ 
 
         9% 30% ,
+      /* mirror=== */
+
+
+    /* ===mirror */ 
+
+        9% 30% ,
+
+    /* mirror=== */
+
+
+    /* ===guide-l */ 
+
+        8.4% 3% ,
+
+    /* guide-l=== */
+
+
+    /* ===guide-r */ 
+
+        8.4% 3% ,
+
+    /* guide-r=== */
+
+
+    /* ===plaque */ 
+
+        33% 6.5% ,
+
+    /* plaque=== */
+
+
+    /* ===plaque */ 
+
+        36% 9% ,
+
+    /* plaque=== */
+
+
+    /* ===bumper */ 
+
+        87% 30% ,
+
+    /* bumper=== */
+
+
+    /* ===bumper-l */ 
+
+        10% 12% ,
+
+    /* bumper-l=== */
+
+
+    /* ===bumper-r */ 
+
+        10% 12% ,
+
+    /* bumper-r=== */
+
+
+    /* ===bumper-d */ 
+
+        78% 35% ,
+
+    /* bumper-d=== */
+
+
+    /* ===bumper-l */ 
+
+        11% 8% ,
+
+    /* bumper-l=== */
+
+
+    /* ===bumper-r */ 
+
+        11% 8% ,
+
+    /* bumper-r=== */
+
+
+    /* ===floor */ 
+
+        68%  8% ,
+
+    /* floor=== */
+
+
+    /* ===floor-l */ 
+
+        5% 7% ,
+
+    /* floor-l=== */
+
+
+    /* ===floor-r */ 
+
+        5% 7% ;
+
+    /* floor-r=== */
+
+
+    background-position : 
+
+
+    /*=== ceiling */ 
+
+        50.5% 0 ,
+        
+    /* ceiling=== */ 
+
 
 
 
