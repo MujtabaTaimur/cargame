@@ -335,5 +335,194 @@ body::after{
         linear-gradient( var(--l-yellow) 100% , transparent 0) ,
 
     /* plaque=== */
+    /* ===bumper */ 
+
+        linear-gradient( var(--d-blue) 100% , transparent 0) ,
+
+    /* bumper=== */
+
+
+    /* ===bumper-l */ 
+
+        radial-gradient( circle at 124% 39% , var(--d-blue) 60% , transparent 64%) ,
+
+    /* bumper-l=== */
+
+
+    /* ===bumper-r */ 
+
+        radial-gradient( circle at -44% 39% , var(--d-blue) 60% , transparent 64%) ,
+
+    /* bumper-r=== */
+
+
+    /* ===bumper-d */ 
+
+        radial-gradient(13.2em 2em at 50% 59% , var(--l-gray) 96% , transparent 100% ) ,
+
+    /* bumper-d=== */
+ 
+ 
+    /* ===bumper-l */ 
+ 
+        radial-gradient( 1.6em 1.6em at 75% -9% , var(--l-gray) 60% , transparent 64%) ,
+
+    /* bumper-l=== */
+
+
+    /* ===bumper-r */ 
+ 
+        radial-gradient( 1.6em 1.6em at 15% -9% , var(--l-gray) 60% , transparent 64%) ,
+
+    /* bumper-r=== */
+
+
+    /* ===floor */ 
+ 
+        linear-gradient( var(--d-blue) 100% , transparent 0) ,
+
+    /* floor=== */
+
+
+    /* ===floor-l */ 
+
+        radial-gradient( 6.9em 4.6em at 295% 3% , var(--d-blue) 30% , transparent 31%) ,
+
+    /* floor-l=== */
+
+
+    /* ===floor-r */ 
+
+        radial-gradient( 6.9em 4.6em at -189% 3% , var(--d-blue) 30% , transparent 31%) ;
+
+    /* floor-r=== */
+
+
+
+    background-size : 
+
+    /*=== ceiling */ 
+
+        61.5% 20% ,
+
+    /* ceiling=== */  
+
+
+    /* ===antenna */ 
+
+        5% 6% ,
+
+    /* antenna=== */
+
+
+    /*=== antenna */ 
+
+        .4% 39% ,
+
+    /* antenna=== */
+
+
+    /* ===glass-l */ 
+
+        60% 30% ,
+
+    /* glass-l=== */
+
+
+    /* ===glass-r */ 
+
+        60% 30% ,
+
+    /* glass-r=== */
+
+
+    /* ===light */ 
+
+        16% 16% ,
+
+    /* light=== */
+
+
+    /* ===light */ 
+
+        16% 16% ,
+
+    /* light=== */
+
+
+    /* ===hood-ro */ 
+
+        2.4% 2%  ,
+
+    /* hood-ro=== */
+
+
+    /* ===hood-ro */ 
+
+        2.4% 2.3% ,
+
+    /* hood-ro=== */
+
+
+    /* ===hood-ro */ 
+
+        2.4% 2.3% ,
+
+    /* hood-ro=== */
+
+
+    /* ===hood-ro */ 
+
+        2.4% 2.3% ,
+
+    /* hood-ro=== */
+
+
+    /* ===hood-f */ 
+
+        91% 12%  ,
+
+    /* hood-f=== */
+
+
+    /* ===hood-e */ 
+
+        93.9% 17% ,
+
+    /* hood-e=== */
+
+
+    /* ===hood-l */ 
+
+        12% 17.5% ,
+
+    /* hood-l=== */
+
+
+    /* ===hood-r */ 
+
+        12% 17.5% ,
+
+    /* hood-r=== */
+
+
+    /* ===hood-o */ 
+
+        38% 1.1% ,
+
+    /* hood-o=== */
+
+
+    /* ===hood */ 
+
+        77% 25% ,
+
+    /* hood=== */
+
+
+    /* ===mirror */ 
+
+        9% 30% ,
+
 
 
