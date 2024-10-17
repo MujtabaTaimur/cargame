@@ -125,3 +125,117 @@ body{
 
     /* rubber-l=== */ 
 
+    /* ===rubber-r */ 
+
+        calc(50% - -6.45em) calc(50% - 1.7em) ,
+        calc(50% - -5.26em) calc(50% - -3.4em) ,
+        calc(50% - -6.5em) calc(50% - -3.8em) ,
+        calc(50% - -4.3em) calc(50% - -3.2em) ,
+        calc(50% - -6.58em) calc(50% - -1.5em) ,
+
+    /* rubber-r=== */ 
+
+
+    /* ===shadow */ 
+
+        center calc(50% - -3.8em) ;
+
+    /* shadow=== */
+
+
+}
+
+
+
+body::before{
+    
+    width: 15.5em ;
+    height: 62.9em ;
+    top: calc(50% - 26.2em) ;
+    background-size: 24.6% 491% ;
+    background-repeat: no-repeat ;
+    background-position: center 0 ;
+    animation: line 1.5s infinite linear, move-road 3.5s infinite linear ;
+    transform: perspective(311px) rotateX(83deg) translate3d(var(--n-road) ,-11.975em, 0) ;
+    background-image: repeating-linear-gradient(to top, var(--white) , var(--white) 4.6%, transparent 0 , transparent 13.01%) ;
+
+}
+
+
+
+
+
+body::after{
+
+    width: 15.2em ;
+    height: 13.2em ;
+    top: calc(50% - 8.8em) ;
+    left: calc(50% - 7.55em) ;
+    background-repeat: no-repeat ;
+    animation: light 1s linear infinite,  shake 3.5s linear infinite ;  
+    
+
+
+    background-image : 
+
+    /* ===ceiling */ 
+
+        radial-gradient(58em 20em at 50% 215% , transparent 20% , var(--white) 20.5% , var(--white) 20.8% , var(--green) 21.5%) ,
+
+    /* ceiling=== */
+
+
+    /* ===antenna */ 
+
+        radial-gradient( circle at center 100% , var(--black)  30% , transparent 0) ,
+
+    /* antenna=== */
+    
+    
+    /* ===antenna */ 
+
+        linear-gradient(var(--white) 100% , transparent 0) ,
+
+    /* antenna=== */
+
+
+    /* ===glass-l */ 
+
+        radial-gradient( 17.8em 37em at 70% 240% , var(--black) 30% , transparent 30.5%) ,
+
+    /* glass-l=== */
+
+
+    /* ===glass-r */ 
+
+        radial-gradient( 17.8em 37em at 31% 240% , var(--black) 30% , transparent 30.5%) ,
+
+    /* glass-r=== */
+
+
+    /* ===light */ 
+
+        radial-gradient( circle , var(--light) 48% ,  var(--black) 52%, var(--black) 59% , transparent 62%) ,
+
+    /* light=== */
+
+
+    /* ===light */ 
+
+        radial-gradient( circle , var(--light) 48% ,  var(--black) 52%, var(--black) 59% , transparent 62%) ,
+
+    /* light=== */
+
+
+    /* ===hood-ro */ 
+
+        radial-gradient( 1em 1em at 102% 100% ,   var(--m-gray)  28%, #f3f3f3 30% ) ,
+
+    /* hood-ro=== */
+
+
+    /* ===hood-ro */ 
+
+        radial-gradient( 1em 1em at 97% -7% ,  var(--m-gray)  28%, var(--l-gray)  30% ) ,
+
+    /* hood-ro=== */
