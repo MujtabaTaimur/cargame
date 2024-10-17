@@ -62,3 +62,66 @@ body{
         linear-gradient(var(--black) 100%, transparent 0) ,
 
     /* rubber-l=== */ 
+     /* ===rubber-r */ 
+
+        radial-gradient(circle at 49% 117%, var(--black) 37%, transparent 38%) ,
+        radial-gradient(circle at 124% 50%, var(--white) 31%, transparent 49%) ,
+        radial-gradient(2.95em 2.5em at 48% 1.2%, var(--black) 37%, transparent 38%) ,
+        radial-gradient(2.95em 2.5em at 48% 1.2%, var(--black) 37%, transparent 38%) ,
+        linear-gradient(var(--black) 100%, transparent 0) ,
+
+    /* rubber-r=== */ 
+
+
+    /* ===shadow */ 
+
+        linear-gradient( var(--d-green) 100% , transparent 0) ;
+
+    /* shadow=== */
+
+
+    background-size : 
+
+
+    /* ===rubber-l */ 
+
+        2.5em 2.5em ,
+        0.7em 0.6em ,
+        2.5em .9em ,
+        2.5em .9em ,
+        1.95em 3.9em ,
+
+    /* rubber-l=== */
+
+
+    /* ===rubber-r */ 
+
+        2.5em 2.5em ,
+        0.7em 0.6em ,
+        2.5em .9em ,
+        2.5em .9em ,
+        1.95em 3.9em ,
+
+    /* rubber-r=== */ 
+
+
+    /* ===shadow */ 
+
+        13em .9em ;
+
+    /* shadow=== */
+
+   
+    background-position : 
+
+
+    /* ===rubber-l */ 
+
+        calc(50% - 6.4em) calc(50% - 1.7em) ,
+        calc(50% - 5.26em) calc(50% - -3.4em) ,
+        calc(50% - 6.5em) calc(50% - -3.8em) ,
+        calc(50% - 4.3em) calc(50% - -3.2em) ,
+        calc(50% - 6.58em) calc(50% - -1.5em) ,
+
+    /* rubber-l=== */ 
+
