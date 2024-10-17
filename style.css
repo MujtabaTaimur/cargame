@@ -18,3 +18,47 @@ html{
     --p-road : 7em;
 
     background-color: var(--green) ;
+    
+}
+
+html *,
+html *::before,
+html *::after{
+
+    box-sizing: inherit ;
+
+}
+
+body::before,
+body::after {
+
+    content: " " ;
+    position: absolute ;
+
+}
+
+body{
+
+    margin: 0 ;
+    height: 100vh ;
+    display: flex ;
+    overflow: hidden ;
+    position: relative ;
+    align-items: center ;
+    justify-content: center ;
+    background-repeat: no-repeat ;
+    animation: car 3.5s cubic-bezier(0.57, 0.63, 0.49, 0.65) infinite ;
+
+
+    background-image : 
+
+
+    /* ===rubber-l */ 
+
+        radial-gradient(circle at 49% 117%, var(--black) 37%, transparent 38%) ,
+        radial-gradient(circle at -24% 50%, var(--white) 31%, transparent 49%) ,
+        radial-gradient(2.95em 2.5em at 52% 1.2%, var(--black) 37%, transparent 38%) ,
+        radial-gradient(2.95em 2.5em at 52% 1.2%, var(--black) 37%, transparent 38%) ,
+        linear-gradient(var(--black) 100%, transparent 0) ,
+
+    /* rubber-l=== */ 
